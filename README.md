@@ -76,7 +76,7 @@ for a complete example.
 ```yaml
 # Useful links
 github_username: "<github_username>"
-facebook_username: "<facebook_username>"
+
 twitter_username: "<twitter_username>"
 linkedin_id: "<linkedin_id>"
 
@@ -89,9 +89,7 @@ theme_switch: on         # Show color switch (on | off)
 
 # Extra settings
 blog: on                 # Show blog tag and post list (on | off)
-avatar: on               # Show avatar (on | off)
-avatar_image: "assets/img/avatar.jpg"
-avatar_description: "My name is Popotato and I'm a HACKER."
+
 highlighter_theme: monokai  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
