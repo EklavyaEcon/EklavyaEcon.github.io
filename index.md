@@ -1,28 +1,8 @@
 ---
 layout: default
-title: Christine Cai
+title: Eklavya
 description: Homepage
 ---
 
-#### Ph.D. Candidate in Economics at Princeton
 
-<hr />
-
-<strong>Hello! Welcome to my website!</strong>
-
-<hr />
-
-
-<u>Research fields:</u>
-* <u>Primary:</u> applied microeconomics, labor
-* <u>Secondary:</u> public, urban, health, education
-			
-<u>Main topics of interest:</u> labor, segregation, migrations, social mobility, educational/racial inequalities
-
-<u>Advisors:</u> <a href="https://scholar.princeton.edu/lboustan/home">Leah Boustan</a> & <a href="https://scholar.princeton.edu/kuziemko/home">Ilyana Kuziemko</a>
-	
-<u>CV/résumé:</u> <a href="/assets/pdf/Christine_Cai_resume.pdf">résumé</a> • <a href="/assets/pdf/Christine_Cai_CV.pdf">CV</a>
-
-<u>Contact:</u> <a href="mailto:christine.cai@princeton.edu">christine.cai@princeton.edu</a>
-
-<u>Twitter:</u> <a href="https://twitter.com/Christine_Cai27">@Christine_Cai27</a>
+Eklavya is a movement that aims to improve access to quality education and opportunities and enable grassroots leadership among rural and marginalized youth. We do it by providing mentorship, training, and guidance to first-generation learners from rural and marginalized communities to help them get admission into premier Higher Education Institutes (HEI) and development fellowships.
