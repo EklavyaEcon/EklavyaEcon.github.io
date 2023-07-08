@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: website
-author: "Eklavya"
+author: "Team Eklavya"
 email: "team@eklavyaindia.org"
 description: personal website
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,7 +24,7 @@ url: "https://EklavyaEcon.github.io" # the base hostname & protocol for your sit
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "EklavyaEcon"
+
 
 twitter_username: "eklavya"
 linkedin_id: "eklavya"
@@ -43,7 +43,7 @@ highlighter_theme: pastie  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
 toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
-  - Bio
+  - Eklavya
   - Research
   - Teaching
   - PublicGoods
