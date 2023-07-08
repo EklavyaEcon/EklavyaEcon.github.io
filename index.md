@@ -13,11 +13,11 @@ Eklavya is a movement that aims to improve access to quality education and oppor
 
 <!-- The image has scrolling behavior to right -->
 
-    <marquee behavior="scroll" direction="right">  
+   
 
 <img src="https://images.app.goo.gl/Bb2dv1ygAHqFQ4om8)" alt="logo" width="200" height="200" >
 
-</marquee>
+
 
 
 #### student registrarion
