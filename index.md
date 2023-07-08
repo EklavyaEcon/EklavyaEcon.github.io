@@ -11,14 +11,13 @@ description: Homepage
 Eklavya is a movement that aims to improve access to quality education and opportunities and enable grassroots leadership among rural and marginalized youth. We do it by providing mentorship, training, and guidance to first-generation learners from rural and marginalized communities to help them get admission into premier Higher Education Institutes (HEI) and development fellowships.
 
 
-<style>
-img:hover {
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
-}
-</style>
+<!-- The image has scrolling behavior to right -->
 
-<img src="assets/img/eklavya.jpg" alt="logo" >
+    <marquee behavior="scroll" direction="right">  
+
+<img src="assets/img/eklavya.jpg" alt="logo" width="300" height="300" >
+
+</marquee>
 
 
 #### student registrarion
