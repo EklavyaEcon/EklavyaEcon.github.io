@@ -13,7 +13,6 @@ Furthermore, even for established academics, there remains <font color="indianre
 In light of these challenges, <font color="indianred"> Eklavya have taken the initiative to compile a comprehensive collection of resources</font>.we believe that they can be instrumental in supporting others in their pursuit of knowledge and understanding in the fields of economics and policy. By sharing these resources, we hope to bridge the gap in learning opportunities and empower first generation learners to enhance their academic capabilities.
 
 
-______
-
+----
 
 
