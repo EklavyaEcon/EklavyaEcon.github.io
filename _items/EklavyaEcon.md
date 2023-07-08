@@ -17,8 +17,3 @@ ______
 
 
 
-## student registrarion
-
-please fill the google form.
-
-<a href="https://forms.gle/K3gx3Q5qu49G8htXA"> UG Prep </a>
