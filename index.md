@@ -13,9 +13,10 @@ Eklavya is a movement that aims to improve access to quality education and oppor
 
 <!-- The image has scrolling behavior to right -->
 
-   
+   ![Eklavya](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/dbe33366-cf26-44b8-b2a9-1dca0a07753e)
 
-<img src="https://assets/img/Eklavya.jpg" alt="logo"  >
+
+
 
 
 
