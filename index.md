@@ -18,7 +18,7 @@ img:hover {
 }
 </style>
 
-<img src="eklavya.jpg" alt="logo" >
+<img src="assets/img/eklavya.jpg" alt="logo" >
 
 
 #### student registrarion
