@@ -14,20 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: website
-author: "Christine Cai"
-email: "christine.cai@princeton.edu"
+author: "Team Eklavya"
+email: "team@eklavyaindia.org"
 description: personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://christinecai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://EklavyaEcon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "christinecai"
-orcid: "0000-0002-6978-7644"
-twitter_username: "Christine_Cai27"
-linkedin_id: "christinecai"
+
+
+twitter_username: "eklavya"
+linkedin_id: "eklavya"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
@@ -38,14 +38,12 @@ theme_switch: on         # Show color switch (on | off)
 
 # Extra settings
 blog: off                 # Show blog tag and post list (on | off)
-avatar: on               # Show avatar (on | off)
-avatar_image: "assets/img/avatar.jpg"
-avatar_description: "Christine Cai"
+
 highlighter_theme: pastie  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
 toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
-  - Bio
+  - Eklavya
   - Research
   - Teaching
   - PublicGoods
