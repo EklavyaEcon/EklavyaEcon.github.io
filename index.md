@@ -15,7 +15,7 @@ Eklavya is a movement that aims to improve access to quality education and oppor
 
    
 
-<img src="https://images.app.goo.gl/Bb2dv1ygAHqFQ4om8)" alt="logo" width="200" height="200" >
+<img src="https://images.app.goo.gl/Bb2dv1ygAHqFQ4om8" alt="logo" width="200" height="200" >
 
 
 
