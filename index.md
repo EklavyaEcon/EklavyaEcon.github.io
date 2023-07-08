@@ -22,7 +22,7 @@ description: Homepage
 
 
 
-## ** STUDENT REGISTRATION**
+## **STUDENT REGISTRATION**
 
 please fill the google form.
 
