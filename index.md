@@ -16,7 +16,8 @@ description: Homepage
 
 <!-- The image  -->
 
-  <img src="Assets/img/Eklavya.jpg" width="100">
+  ![Eklavya](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/img/Eklavya-removebg)
+
 
 ## **WHY STUDY ECONOMICS?**
 
