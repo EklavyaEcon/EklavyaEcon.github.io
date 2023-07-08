@@ -79,7 +79,6 @@ for a complete example.
 
 twitter_username: "<twitter_username>"
 linkedin_id: "<linkedin_id>"
-instagram_id: "<instagram_id>"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
