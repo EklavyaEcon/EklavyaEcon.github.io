@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eklavya
+title: EklavyaEcon
 description: Eklavy
 ---
 
