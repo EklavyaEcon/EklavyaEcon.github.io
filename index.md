@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eklavya
+title: EklavyaEcon
 description: Homepage
 ---
 ---
@@ -8,14 +8,15 @@ description: Homepage
 ---
 
 
-Eklavya is a movement that aims to improve access to quality education and opportunities and enable grassroots leadership among rural and marginalized youth. We do it by providing mentorship, training, and guidance to first-generation learners from rural and marginalized communities to help them get admission into premier Higher Education Institutes (HEI) and development fellowships.
+Eklavya Econ is a platform that aims to support and connect researchers and students,from marginalized caste, tribes, and religious communities who are interested in economics. We want to increase the presence of these communities in research and policy discussions. Eklavya Econ welcomes first-generation learners and researchers to join us in our efforts to improve representation in policy and economic development circles and express our unique perspectives in academia
+
 
 
 <!-- The image  -->
 
    ![Eklavya](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/dbe33366-cf26-44b8-b2a9-1dca0a07753e)
 
-
+**WHY STUDY ECONOMICS?**[ Amit Goyal Quora Page](https://www.quora.com/Why-should-I-study-economics/answer/Amit-Goyal-135)
 
 
 
