@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Public goods
-description:Resource
+title: Public Goods
+description: Public Goods
 ---
 
 #### Applied Econometrics
