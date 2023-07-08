@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Public good
+title: Public goods
 description:Resource
 ---
 
