@@ -75,7 +75,7 @@ Some settings are defined in `_config.yml`. Download the file in this repo
 for a complete example.
 ```yaml
 # Useful links
-github_username: "<github_username>"
+
 
 twitter_username: "<twitter_username>"
 linkedin_id: "<linkedin_id>"
