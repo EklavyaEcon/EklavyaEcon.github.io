@@ -22,11 +22,11 @@ description: Homepage
 
 
 
-## **student registrarion**
+## ** STUDENT REGISTRATION**
 
 please fill the google form.
 
-<a href="https://forms.gle/K3gx3Q5qu49G8htXA"> UG Prep </a>
+<a href="https://forms.gle/K3gx3Q5qu49G8htXA"> EklavyaEcon Preparatory Programme </a>[click here]
 
 
 
