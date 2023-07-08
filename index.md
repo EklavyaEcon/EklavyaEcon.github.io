@@ -10,13 +10,13 @@ description: Homepage
 
 
 
-<font color="green">Eklavya Econ</font> is a platform that aims to support and connect researchers and students,from marginalized caste, tribes, and religious communities who are interested in economics and policy. We want to increase the presence of these communities in research and policy discussions. Eklavya Econ welcomes first-generation learners and researchers to join us in our efforts to improve representation in policy and economic development circles and express our unique perspectives in academia
+ the**<font color="green">Eklavya Econ</font>**is a platform that aims to support and connect researchers and students,from marginalized caste, tribes, and religious communities who are interested in economics and policy. We want to increase the presence of these communities in research and policy discussions. Eklavya Econ welcomes first-generation learners and researchers to join us in our efforts to improve representation in policy and economic development circles and express our unique perspectives in academia.
 
 
 
 <!-- The image  -->
 
-  ![Eklavya](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/img/Eklavya-removebg)
+  ![Eklavya](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/img/Eklavya-removebg.png)
 
 
 ## **WHY STUDY ECONOMICS?**
