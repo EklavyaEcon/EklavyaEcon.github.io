@@ -26,11 +26,37 @@ description: Homepage
 
 please fill the google form.
 
-<a href="https://forms.gle/K3gx3Q5qu49G8htXA"> EklavyaEcon Preparatory Programme </a>[click here]
+<a href="https://forms.gle/K3gx3Q5qu49G8htXA"> EklavyaEcon Preparatory Programme </a> [click here]
 
 
 
-------_
+![UNI-removebg-preview](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/d8f63bf3-d53e-48a2-b580-527db00fbd32)
+
+
+![FELLOW-removebg-preview](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/75ff3756-c276-4d5a-a782-07226eba03be)
+
+
+
+
+-----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
