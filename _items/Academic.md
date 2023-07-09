@@ -4,16 +4,8 @@ title: Academic
 description: Academic
 ---
 
-## **WHY STUDY ECONOMICS?**
 
-
-[ Amit Goyal Quora Page][click here](https://www.quora.com/Why-should-I-study-economics/answer/Amit-Goyal-135)
-
-
-
-----
-
- #### **MODERN ECONOMICS**
+ ## **MODERN ECONOMICS**
  
 Once upon a time, an economist could stand up and say that economics is about the 
 allocation of resources. I am afraid that that is history. Economists by now have done 
@@ -40,6 +32,21 @@ economists have started their dating or marriage counseling service. Or how abou
 We Grow Large, and then Grow Old: Economics, Biology and Mortality?” a working 
 paper written by a very senior economist. If these titles are about economics, you must be 
 thinking about a Ph.D. thesis on why Norwegians sing in their showers! 
+
+
+----
+
+## **WHY STUDY ECONOMICS?**
+
+
+[ Amit Goyal Quora Page][click here](https://www.quora.com/Why-should-I-study-economics/answer/Amit-Goyal-135)
+
+
+
+
+
+
+
 
 
 
