@@ -10,6 +10,7 @@ description: Homepage
 ------
 ## A <font color="yellow">career launchpad</font> and a <font color="yellow">platform </font>
 
+# **Be someones** <font color="Red">Nash equilibruim</font>**
 ----
 
 
