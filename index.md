@@ -43,9 +43,7 @@ please fill the google form.
 
 
 
-
-
-https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/0ce16382-d1b4-4a4d-98c4-3feaa2f4af85
+[![Raje Kendre -Eklavya](https://res.cloudinary.com/marcomontalbano/image/upload/v1688895454/video_to_markdown/images/youtube--JJtps2DFlrQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=JJtps2DFlrQ "Raje Kendre -Eklavya")
 
 
 
