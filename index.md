@@ -4,6 +4,9 @@ title: Eklavya India Foundation
 description: Homepage
 ---
 
+![eklavya background picture](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/49652fe4-2a4d-4d62-9e43-ccf4d6dd52a6)
+
+
 ------
 ## We are a <font color="yellow">family</font>,a <font color="yellow">career launchpad</font> and a <font color="yellow">platform </font>
 
@@ -28,7 +31,15 @@ please fill the google form.
 
 <a href="https://forms.gle/K3gx3Q5qu49G8htXA"> EklavyaEcon Preparatory Programme </a> [click here]
 
+---
 
+
+
+[![Raje Kendre -Eklavya](https://res.cloudinary.com/marcomontalbano/image/upload/v1688895454/video_to_markdown/images/youtube--JJtps2DFlrQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=JJtps2DFlrQ "Raje Kendre -Eklavya")
+
+
+
+-----------
 
 ![UNI-removebg-preview](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/d8f63bf3-d53e-48a2-b580-527db00fbd32)
 
@@ -36,14 +47,6 @@ please fill the google form.
 ![FELLOW-removebg-preview](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/75ff3756-c276-4d5a-a782-07226eba03be)
 
 
-
-
------------
-
-
-
-
-[![Raje Kendre -Eklavya](https://res.cloudinary.com/marcomontalbano/image/upload/v1688895454/video_to_markdown/images/youtube--JJtps2DFlrQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=JJtps2DFlrQ "Raje Kendre -Eklavya")
 
 
 
