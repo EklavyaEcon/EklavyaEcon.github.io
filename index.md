@@ -19,9 +19,7 @@ description: Homepage
 
 
 
-<!-- The image  -->
-
-  ![Eklavya-removebg](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/f767244e-0b8d-451c-84a8-7aff3df81332)
+----
 
 
 
