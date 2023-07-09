@@ -52,8 +52,8 @@ please fill the google form.
 
 ## Eklavya Office Adress 
 971 Vishal Nagar, Pimpalgaon Road Yavatmal, Maharashtra
-Pin code: 445001
-Location: <a href="https://www.google.com/maps/place/20.404420,78.121906/data=!4m6!3m5!1s0!7e2!8m2!3d20.4044197!4d78.12190609999999?utm_source=mstt_1&entry=gps&lucs=47068615&g_ep=CAESCTExLjg0LjMwMBgAINeCAyoINDcwNjg2MTVCAklO">https://maps.app.goo.gl/2JVDgJsgZ5Brr16p6 </a>
+Pin code: 445001.
+Location: <a href="https://www.google.com/maps/place/20.404420,78.121906/data=!4m6!3m5!1s0!7e2!8m2!3d20.4044197!4d78.12190609999999?utm_source=mstt_1&entry=gps&lucs=47068615&g_ep=CAESCTExLjg0LjMwMBgAINeCAyoINDcwNjg2MTVCAklO">https://maps.app.goo.gl/2JVDgJsgZ5Brr16p6 </a> [click here]
 
 
 
