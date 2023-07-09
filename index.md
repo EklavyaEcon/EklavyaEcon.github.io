@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eklavya India Foundation
+title: EklavyaEcon
 description: Homepage
 ---
 
