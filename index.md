@@ -8,7 +8,7 @@ description: Homepage
 
 
 ------
-## A <font color="yellow">career launchpad</font> and a <font color="yellow">platform </font>
+## A <font color="gold">career launchpad</font> and a <font color="gold">platform </font>
 
 # **Be someone's** <font color="green"> Nash equilibruim! </font>
 ----
