@@ -44,7 +44,11 @@ please fill the google form.
 
 
 
-https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/c6930a31-74a8-4a12-b339-cba88054047a
+https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/35112970-afd4-4434-9a15-01dc32b01b89
+
+
+
+
 
 
 
