@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-description: Resources
+description: Resource
 ---
 
 #### Applied Econometrics
