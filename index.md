@@ -1,12 +1,16 @@
 ---
 layout: default
-title: Eklavya India Foundation
+title: EklavyaEcon
 description: Homepage
 ---
 
-------
-## We are a <font color="yellow">family</font>,a <font color="yellow">career launchpad</font> and a <font color="yellow">platform </font>
+![eklavya background picture](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/49652fe4-2a4d-4d62-9e43-ccf4d6dd52a6)
 
+
+------
+## A <font color="green">career launchpad</font> and a <font color="gold">platform </font>
+
+# "**Be someone's** <font color="green"> Nash equilibruim!" </font>
 ----
 
 
@@ -16,9 +20,7 @@ description: Homepage
 
 
 
-<!-- The image  -->
-
-  ![Eklavya-removebg](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/f767244e-0b8d-451c-84a8-7aff3df81332)
+----
 
 
 
@@ -36,6 +38,11 @@ please fill the google form.
 ![FELLOW-removebg-preview](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/75ff3756-c276-4d5a-a782-07226eba03be)
 
 
+---
+
+
+
+[![Eklavya India Movement ](https://res.cloudinary.com/marcomontalbano/image/upload/v1688937575/video_to_markdown/images/youtube--3QerlVdGnD8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3QerlVdGnD8&t=90s "Eklavya India Movement ")
 
 
 -----------
@@ -44,11 +51,13 @@ please fill the google form.
 
 
 
-https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/35112970-afd4-4434-9a15-01dc32b01b89
 
 
 
-
+## Eklavya Office Adress 
+971 Vishal Nagar, Pimpalgaon Road Yavatmal, Maharashtra
+Pin code: 445001.
+Location: <a href="https://www.google.com/maps/place/20.404420,78.121906/data=!4m6!3m5!1s0!7e2!8m2!3d20.4044197!4d78.12190609999999?utm_source=mstt_1&entry=gps&lucs=47068615&g_ep=CAESCTExLjg0LjMwMBgAINeCAyoINDcwNjg2MTVCAklO">https://maps.app.goo.gl/2JVDgJsgZ5Brr16p6 </a> [click here]
 
 
 
