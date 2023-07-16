@@ -42,7 +42,6 @@ thinking about a Ph.D. thesis on why Norwegians sing in their showers!
 
 
 
-[![Downloads](https://img.shields.io/wordpress/plugin/dt/dirtysuds-embed-pdf.svg)](https://wordpress.org/plugins/dirtysuds-embed-pdf/)
 
 
 
