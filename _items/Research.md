@@ -4,5 +4,33 @@ title: Research
 description: Research
 ---
 
-Eklavya is a movement that aims to improve access to quality education and opportunities and enable grassroots leadership among rural and marginalized youth. We do it by providing mentorship, training, and guidance to first-generation learners from rural and marginalized communities to help them get admission into premier Higher Education Institutes (HEI) and development fellowships.
+#### Before Grad School
+* <a href="https://tatyana-57116.medium.com/should-you-get-a-phd-1625c175cc1">Should you get a PhD?</a> (by Tatyana Deryugina)
+* <a href="https://raguide.github.io">Econ RA Guide</a> (by Coly Elhai et al.)
+* <a href="https://www.dropbox.com/s/eej9n1ywknlzcu6/Applied%20Tips%20for%20Applied%20Micro%20RAs.pdf?dl=0">Tips for Applied Micro RAs</a> (by Livia Alfonsi)
+* <a href="https://twitter.com/logwithbasee/status/1406924226393612295?s=20">Guide to Applying for Ph.D. programs in Econ</a> (by Lakshya Narula et al.)
+* <a href="https://riccardodicato.wordpress.com/2021/04/23/phd_application_tips/">PhD Application Tips</a> (by Riccardo Di Cato)
 
+#### Grad School and the Job Market
+* <a href="https://sites.google.com/view/econgradadvice/">Advice for Phd Students in Economics</a> (by Chris Roth & David Schindler)
+* <a href="http://www.ricardodahis.com/files/papers/Dahis_Advice_Research.pdf">Advice for Academic Research</a> (by Ricardo Dahis)
+* <a href="https://ekatsevi.github.io/literature/">Keeping track of the literature</a> (by Eugene Katsevich)
+* <a href="http://www.ericzwick.com/public_goods/twelve_steps.pdf">The 12 Step Program for Grad School</a> (by Eric Zwick)
+* <a href="https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fd8wm9%2Fdownload">Slides on public speaking for academic economists (especially for grad students)</a> (by Rachael Meager)
+* <a href="https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf">How to Give an Applied Micro Talk</a> (by Jesse M. Shapiro)
+* <a href="https://github.com/kylebutts/templates/blob/master/latex-slides/slides.tex">LaTeX's Beamer slides template</a> (by Kyle Butts)
+* <a href="https://sites.google.com/site/amandayagan/writingadvice?authuser=0">Writing and Presentation Advice</a> (by Amanda Yagan)
+* <a href="https://www.iza.org/publications/dp/15057">Writing Tips for Economics Research Papers</a> (by Plamen Nikolov)
+* <a href="https://twitter.com/TDeryugina/status/1428353535414992914?s=20">Writing a JMP</a> (by Tatyana Deryugina)
+* <a href="http://www.ericzwick.com/public_goods/love_the_market.pdf">How I Learned to Stop Worrying and Love the Job Market</a> (by Eric Zwick)
+* <a href="https://statatexblog.com/useful-links/">General resources: writing paper, the editorial process, and job (market) advice</a> (by Jan Sauermann)
+* <a href="https://www.kimfecramer.com/public-goods">Job market debrief</a> (by Kerry Siani & Kim Fe Cramer)
+
+#### After Grad School
+* <a href="https://blog.academicsequitur.com/2019/03/18/how-to-be-a-productive-researcher/">How to be a productive researcher</a> (by Tatyana Deryugina)
+* <a href="https://tyleransom.medium.com/tips-for-new-tenure-track-professors-in-r1-economics-departments-fa2e9977d09c0">Tips for new tenure-track professors in R1 economics departments</a> (by Tyler Ransom)
+* <a href="https://blog.academicsequitur.com/2019/02/17/how-to-pick-which-journal-to-submit-your-manuscript-to/">How to know which journal to submit your manuscript to</a> (by Tatyana Deryugina)
+* <a href="https://blog.academicsequitur.com/2019/06/30/how-to-write-a-good-referee-report/">How to write a good referee report</a> (by Tatyana Deryugina)
+* <a href="https://blog.academicsequitur.com/2019/03/05/when-to-give-up-on-a-paper/">When to give up on a paper</a> (by Tatyana Deryugina)
+* <a href="https://blog.academicsequitur.com/2019/02/25/what-to-do-after-a-rejection/">What to do after a rejection</a> (by Tatyana Deryugina)
+* <a href="https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading">Mentoring Reading Materials</a> (by the American Economic Association)
