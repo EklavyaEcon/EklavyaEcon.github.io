@@ -46,7 +46,9 @@ toolbar_priority:        # Order of the items in the toolbar (except for blog an
   - EklavyaEcon
   - Academic
   - Research
-  - PublicGoods
+  - Resources
+  - Datanomics
+  - Articles
 
 # Collections
 collections:
