@@ -16,7 +16,6 @@ description: Resourc
 
 ---
 
-[![MA Economics Entrance Preparation Strategy, Counselling | All Resources: Books\Notes | ISI DSE IGIDR] (https://res.cloudinary.com/marcomontalbano/image/upload/v1689551625/video_to_markdown/images/youtube--twWuCiabdGg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=twWuCiabdGg "MA Economics Entrance Preparation Strategy, Counselling | All Resources: Books\Notes | ISI DSE IGIDR")
 
 
 
