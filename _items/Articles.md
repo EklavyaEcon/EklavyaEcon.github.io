@@ -7,7 +7,7 @@ description:
 
 
 
-## ** <font color="yellow">अर्थशास्त्र</font> शिक्षणाचे महत्व आणि करिअरच्या संधी.**
+## **<font color="yellow">अर्थशास्त्र</font> शिक्षणाचे महत्व आणि करिअरच्या संधी**
 
 
 ![econ 1900](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/3caf9178-3a1b-4ac2-99ee-1e8657cb5d0b)
