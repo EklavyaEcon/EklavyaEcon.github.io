@@ -35,13 +35,15 @@ thinking about a Ph.D. thesis on why Norwegians sing in their showers!
 
 ----
 
-## **WHY STUDY ECONOMICS?**
+## WHY STUDY ECONOMICS?
 
 
 [ Amit Goyal Quora Page][click here](https://www.quora.com/Why-should-I-study-economics/answer/Amit-Goyal-135)
 
 
+## **Where to study Economics in India**
 
+* <a href="https://www.shivhastawala.com/resources"> resources for students in econ in india </a> (by shiv hastwala)
 
 
 
