@@ -46,6 +46,10 @@ thinking about a Ph.D. thesis on why Norwegians sing in their showers!
 * <a href="https://www.shivhastawala.com/resources"> resources for students in econ in india </a> (by shiv hastwala)
 
 
+## Public Policy In India
+
+[Public Policy In India][click here](https://publicpolicyindia.com/)
+
 
 
 
