@@ -17,10 +17,7 @@ description:
 
 #### ***अर्थशास्त्र म्हणजे काय ? या विषयाचा अभ्यास का महत्वाचा आहे ? हा विषय , हे शास्त्र आज किती महत्त्वाचे आहे ? याचा खरोखरच दैनंदीन जीवनात उपयोग आहे का ? यातून काय साध्य होणार आहे ? अर्थशास्त्र मध्ये काय शिकवले जाते ? आणि सर्वात महत्वाचा प्रश्न – नोकरी मिळेल का ?***
 
-a <font color="yellow"> <span style="font-family:Times New Roman"> प्रश्नाचा उलगडा</span> </font>
-a <font color="yellow"> <span style="font-family:Gigi"> mahesh  suryawanshi</span> </font>
-a <font color="yellow"> <span style="font-family:verdana"> mahesh  suryawanshi</span> </font>
-a <font color="yellow"> <span style="font-family:Tiro Devanagiri Marathi">प्रश्नाचा उलगडा </span> </font>
+
 
 #### **या व अशा आणखीन काही प्रश्नाचा उलगडा पुढे करणार आहोत**
 
