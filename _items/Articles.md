@@ -7,7 +7,7 @@ description:
 
 
 
-## **अर्थशास्त्र शिक्षणाचे महत्व आणि करिअरच्या संधी.**
+## **<font color="yellow">अर्थशास्त्र</font> शिक्षणाचे महत्व आणि करिअरच्या संधी**
 
 
 ![econ 1900](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/3caf9178-3a1b-4ac2-99ee-1e8657cb5d0b)
@@ -17,9 +17,7 @@ description:
 
 #### ***अर्थशास्त्र म्हणजे काय ? या विषयाचा अभ्यास का महत्वाचा आहे ? हा विषय , हे शास्त्र आज किती महत्त्वाचे आहे ? याचा खरोखरच दैनंदीन जीवनात उपयोग आहे का ? यातून काय साध्य होणार आहे ? अर्थशास्त्र मध्ये काय शिकवले जाते ? आणि सर्वात महत्वाचा प्रश्न – नोकरी मिळेल का ?***
 
-a <font color="yellow"> <span style="font-family:Times New Roman"> mahesh  suryawanshi</span> </font>
-a <font color="yellow"> <span style="font-family:Gigi"> mahesh  suryawanshi</span> </font>
-a <font color="yellow"> <span style="font-family:verdana"> mahesh  suryawanshi</span> </font>
+
 
 #### **या व अशा आणखीन काही प्रश्नाचा उलगडा पुढे करणार आहोत**
 
