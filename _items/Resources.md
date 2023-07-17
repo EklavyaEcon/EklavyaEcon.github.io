@@ -14,7 +14,9 @@ description: Resourc
 * <a href="https://www.youtube.com/@HoneyofKnowledge"> Econ Youtube channel</a> ( by ashish)
 * <a href=" https://www.ctanujit.org/lecture-notes.html"> mathematics statistics and economics resources </a> (by tanujit da)
 
-* #### Eklavya Econ mailing list is hosted on Google groups and anyone interested in economics/policy in India is welcome to join. Below  subscribe to our mailing list:
+  ---
+
+* ## **Eklavya Econ mailing list is hosted on Google groups and anyone interested in economics/policy in India is welcome to join. Below  subscribe to our mailing list:**
 
 * <a href="https://groups.google.com/u/1/g/eklavya-econ">EklavyaEcon-Google Group </a> ( click here for more resources)
 
