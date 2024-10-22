@@ -1,6 +1,12 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
 
+<div align="center">
+
+[![EklavyaEcon](https://github.com/EklavyaEcon/EklavyaEcon.github.io/blob/main/assets/img/Eklavya.jpg)](EklavyaEcon.github.io)
+
+</div>
+
 ### Project EklavyaEcon
 
 In the state of Maharashtra, the core components of academia in the fields of economics and policy are frequently left unaddressed in formal education. This absence of explicit teaching leaves aspiring academics in a predicament, as they are expected to acquire these crucial skills and knowledge "along the way." Unfortunately, many individuals face limitations due to a lack of accessible resources and limited opportunities for this type of learning.
