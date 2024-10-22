@@ -5,16 +5,13 @@
         <div class="container">
           <div class="navbar-header">
           
-#--
-            <!-- Floating Light/Dark Mode Button -->
+<!-- Light/Dark Mode Button -->
 {% if site.theme_switch == true %}
-<div class="theme-switch-wrapper">
-  <button id="theme-toggle" class="theme-toggle-btn">
-    <i id="theme-icon" class="fa fa-moon fa-2x"></i> <!-- Initial moon icon -->
-  </button>
-</div>
+<a onclick="toggleTheme();" class="btn btn-xs btn-default navbar-btn">
+  <!-- Increase icon size with fa-2x (2 times larger) -->
+  <i id="theme-icon" class="fa fa-adjust fa-2x"></i> <!-- Moon icon with larger size -->
+</a>
 {% endif %}
-------
 
 
             
