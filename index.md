@@ -61,7 +61,7 @@ Please Check Followings
     <img src="https://github.com/user-attachments/assets/5f895c1c-22cd-4bdc-aa0f-82787a84ebc3" alt="download (1)" width="200" height="100">
   </a>
   <a href="https://publicpolicyindia.com/">
-    <img src="https://github.com/user-attachments/assets/7a94ed2a-fbee-4d47-852c-4ae0180dfb3a" alt="download (2)" width="200" height="80">
+    <img src="https://github.com/user-attachments/assets/7a94ed2a-fbee-4d47-852c-4ae0180dfb3a" alt="download (2)" width="100" height="80">
   </a>
 </div>
 
