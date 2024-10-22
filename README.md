@@ -14,3 +14,7 @@ In the state of Maharashtra, the core components of academia in the fields of ec
 Furthermore, even for established academics, there remains a dearth of awareness regarding the existence and availability of valuable online resources that can aid in the understanding of essential subjects like econometrics. These resources, which offer valuable insights and practical guidance, are not widely known or utilized within the academic community.
 
 In light of these challenges, Eklavya has taken the initiative to compile a comprehensive collection of resources. We believe these resources can be instrumental in supporting others in their pursuit of knowledge and understanding in the fields of economics and policy. By sharing these resources, we hope to bridge the gap in learning opportunities and empower first-generation learners to enhance their academic capabilities.
+
+Regards 
+
+[Eklavya India Foundation](https://eklavyaindia.org/)
