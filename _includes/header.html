@@ -4,19 +4,6 @@
       <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
           <div class="navbar-header">
-        .navbar-header .btn {
-  margin-right: 15px; /* Adjust spacing to align with other elements */
-}
-    
-          <!-- Light/Dark Mode Button -->
-{% if site.theme_switch == true %}
-<a onclick="toggleTheme();" class="btn btn-xs btn-default navbar-btn">
-  <!-- Increase icon size with fa-2x (2 times larger) -->
-  <i id="theme-icon" class="fa fa-moon-o fa-2x"></i> <!-- Moon icon with larger size -->
-</a>
-{% endif %}
-
-
             <a class="navbar-toggle collapsed navbar-icon" data-toggle="collapse"
               data-target="#bs-example-navbar-collapse-1">
               <i class="fa fa-bars fa-2x"></i>
@@ -48,12 +35,22 @@
                 <li class="nav-item"><a href="{% if page.redirect_to %}{{page.redirect_to}}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}">{{ page.title }}</a></li>
               {% endfor %}
 
-              <script>
+              <!-- Light/Dark Mode Button moved here to the right -->
+              {% if site.theme_switch == true %}
+              <li>
+                <a onclick="toggleTheme();" class="btn btn-xs btn-default navbar-btn">
+                  <!-- Sun/Moon icon for light/dark mode -->
+                  <i id="theme-icon" class="fa fa-moon-o fa-2x"></i> <!-- Larger moon icon -->
+                </a>
+              </li>
+              {% endif %}
+            </ul>
+
+            <script>
                 // clean repeated dropdowns and add <li> to their positions
                 let done = [];
                 let elements = [];
                 $(".dropdown")
-                  //
                   .each((index0 , value0) => {
                     let dropdownClass = "."+$(value0)[0].classList[1];
                     if (done.indexOf(dropdownClass) !== -1) return
@@ -78,8 +75,7 @@
                   })
                 });
                 $(".nav").append(elements)
-              </script>
-            </ul>
+            </script>
           </div>
         </div>
       </nav>
