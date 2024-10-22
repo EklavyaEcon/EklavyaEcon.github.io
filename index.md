@@ -49,7 +49,10 @@ Please Check Followings
 
 ## **Beacons**
 
-[][!BahuhanEcon]("https://bahujanecon.org/")
+
+[![download](https://github.com/user-attachments/assets/a06bdf29-1cb6-4d66-8352-ebfa01f0a1bb)](https://bahujanecon.org/)
+
+[![download (1)](https://github.com/user-attachments/assets/5f895c1c-22cd-4bdc-aa0f-82787a84ebc3)](https://www.womenineconpolicy.com/)
 
 
 
