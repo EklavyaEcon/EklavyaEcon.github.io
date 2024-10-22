@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Awesome Economics
+description: List
+---
 
 ## Table of Contents
 
