@@ -50,9 +50,9 @@ Please Check Followings
 ## **Beacons**
 
 
-[![download](https://github.com/user-attachments/assets/a06bdf29-1cb6-4d66-8352-ebfa01f0a1bb)](https://bahujanecon.org/)
 
-[![download (1)](https://github.com/user-attachments/assets/5f895c1c-22cd-4bdc-aa0f-82787a84ebc3)](https://www.womenineconpolicy.com/)
+[![download (2)](https://github.com/user-attachments/assets/5cd02d3e-3936-41f3-920c-5548af397132)](https://www.womenineconpolicy.com/) [![download (1)](https://github.com/user-attachments/assets/5f895c1c-22cd-4bdc-aa0f-82787a84ebc3)](https://www.womenineconpolicy.com/)
+
 
 
 
