@@ -51,8 +51,16 @@ Please Check Followings
 
 
 
-[![download (2)](https://github.com/user-attachments/assets/5cd02d3e-3936-41f3-920c-5548af397132)](https://www.womenineconpolicy.com/) [![download (1)](https://github.com/user-attachments/assets/5f895c1c-22cd-4bdc-aa0f-82787a84ebc3)](https://www.womenineconpolicy.com/)
 
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://www.womenineconpolicy.com/">
+    <img src="https://github.com/user-attachments/assets/5cd02d3e-3936-41f3-920c-5548af397132" alt="download (2)" width="200" height="100">
+  </a>
+  <a href="https://www.womenineconpolicy.com/">
+    <img src="https://github.com/user-attachments/assets/5f895c1c-22cd-4bdc-aa0f-82787a84ebc3" alt="download (1)" width="300" height="100">
+  </a>
+</div>
 
 
 
