@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: website
 author: "Eklavya india foundation"
-email: ""
+email: "team@eklavyaindia.org"
 description: personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://EklavyaEcon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -25,9 +25,9 @@ url: "https://EklavyaEcon.github.io" # the base hostname & protocol for your sit
 # ------------------------------------------------------------------------------
 # Useful links
 
-
-twitter_username: "EklavyaMovement"
-linkedin_id: "eklavyaindiamovement"
+github_username: "EklavyaEcon"
+twitter_username: "@eklavya_india"
+linkedin_id: "https://www.linkedin.com/company/eklavyaindiafoundation/"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
