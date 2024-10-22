@@ -47,8 +47,9 @@ Please Check Followings
 
 -----------
 
+## **Beacons**
 
-
+[][!BahuhanEcon]("https://bahujanecon.org/")
 
 
 
