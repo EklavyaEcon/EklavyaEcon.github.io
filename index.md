@@ -47,7 +47,7 @@ Please Check Followings
 
 -----------
 
-## **Beacons**
+## **Beacons** *follow channels for mentorship*
 
 
 
