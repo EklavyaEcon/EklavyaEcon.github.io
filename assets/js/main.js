@@ -89,3 +89,24 @@ $.fn.isInViewport = function() {
 };
 
 
+// Select the button and icon elements
+const themeToggleBtn = document.getElementById('theme-toggle');
+const themeIcon = document.getElementById('theme-icon');
+
+// Function to toggle the theme
+function toggleTheme() {
+  document.body.classList.toggle('dark-theme'); // Toggle the dark theme class on the body element
+
+  // Change the icon based on the current theme
+  if (document.body.classList.contains('dark-theme')) {
+    themeIcon.classList.remove('fa-moon');
+    themeIcon.classList.add('fa-sun');
+  } else {
+    themeIcon.classList.remove('fa-sun');
+    themeIcon.classList.add('fa-moon');
+  }
+}
+
+// Event listener for the toggle button
+themeToggleBtn.addEventListener('click', toggleTheme);
+
