@@ -26,9 +26,9 @@ description: Homepage
 
 ## **STUDENT REGISTRATION**
 
-please fill the google form.
+Please Check Followings
 
-<a href="https://forms.gle/K3gx3Q5qu49G8htXA"> EklavyaEcon Preparatory Programme </a> [click here]
+<a href="https://linktr.ee/EklavyaIndiaFoundation"> EklavyaEcon Preparatory Programmes </a> [click here]
 
 
 
