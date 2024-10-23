@@ -25,7 +25,7 @@ Team Eklavya
 
 
 
-:pencil2: To Contribute 
+To Contribute 
 
  mail : [Mahesh](mr.mahesh.econ@gmail.com) 
  
