@@ -28,7 +28,7 @@ description: Homepage
 
 Please Check Followings
 
-<a href="https://linktr.ee/EklavyaIndiaFoundation"> EklavyaEcon Preparatory Programmes </a> [click here]
+<a href="https://linktr.ee/EklavyaIndiaFoundation"> Ongoing Eklavya Preparatory Programmes </a> [click here]
 
 
 
