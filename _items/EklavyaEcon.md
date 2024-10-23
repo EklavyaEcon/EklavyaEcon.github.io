@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EklavyaEcon
+title: EklavyaEcon 
 description: Eklavy
 ---
 
@@ -9,6 +9,7 @@ description: Eklavy
   ![Eklavya-removebg](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/f767244e-0b8d-451c-84a8-7aff3df81332)
 
   
+
 
 In the state of **Maharashtra**,<font color="indianred"> the core components of academia in the fields of economics and policy are frequently left unaddressed in formal education.</font> This absence of explicit teaching leaves aspiring academics in a predicament, as they are expected to acquire these crucial skills and knowledge "along the way." Unfortunately, many individuals face limitations due to a lack of accessible resources and limited opportunities for this type of learning.
 
@@ -25,11 +26,14 @@ Team Eklavya
 
 
 
-To Contribute 
+To Contribute ,
+
 
  mail : [Mahesh](mr.mahesh.econ@gmail.com) 
  
- [issue on GitHub Page](https://github.com/EklavyaEcon)
+ [issue on GitHub Page](https://github.com/EklavyaEcon) 
+ 
+ [![Eklavya - Econ](https://img.shields.io/static/v1?label=Eklavya&message=Econ&color=%23cc5500)](https://eklavyaecon.github.io/)
 
 ----
 
