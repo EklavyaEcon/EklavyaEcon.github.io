@@ -29,7 +29,7 @@ To Contribute
 
  mail : [Mahesh](mr.mahesh.econ@gmail.com) 
  
- [issue at GitHub Page](https://github.com/EklavyaEcon)
+ [issue on GitHub Page](https://github.com/EklavyaEcon)
 
 ----
 
