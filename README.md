@@ -1,6 +1,6 @@
 [![Eklavya - Econ](https://img.shields.io/static/v1?label=Eklavya&message=Econ&color=%23cc5500)](https://eklavyaecon.github.io/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
+[![Contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
 
 
 <div align="center">
