@@ -7,6 +7,7 @@ description: Inspirations real life eklavya's
 ## Dr B R Ambedkar 
 
 
+
 <img src="https://github.com/user-attachments/assets/8c965117-7f1f-46f5-90a5-442fd294f060" alt="poem" width="300" height = "250"/>
 
  There was a boy whose greatest aspiration was to run away from home and become a laborer in a mill in Mumbai. In the future, he became the labor minister of India! Haha, he was none other than Dr. B. R. Ambedkar! Let's get to know more about our beloved Babasaheb.
@@ -21,7 +22,7 @@ description: Inspirations real life eklavya's
  
 
 
- ## Gautam Buddha 
+  ## Siddhartha Gautama Buddha
 
  <img src="https://github.com/user-attachments/assets/8181016f-f05c-42d1-bbf7-a46189ce412a" alt="poem" width="300" height = "280"/>
 
