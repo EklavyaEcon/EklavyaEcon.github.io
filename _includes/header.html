@@ -5,15 +5,6 @@
         <div class="container">
           <div class="navbar-header">
 
-             {% if site.theme_switch == true %}
-              <!-- Light/Dark Mode Button moved to the right -->
-              <li>
-                <a onclick="toggleTheme();" class="btn btn-xs btn-default navbar-btn">
-                  <i id="theme-icon" class="fa fa-adjust fa-2x"></i>
-                </a>
-              </li>
-              {% endif %}
-
             <a class="navbar-toggle collapsed navbar-icon" data-toggle="collapse"
               data-target="#bs-example-navbar-collapse-1">
               <i class="fa fa-bars fa-2x"></i>
@@ -25,7 +16,14 @@
 
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-             
+              {% if site.theme_switch == true %}
+              <!-- Light/Dark Mode Button moved to the right -->
+              <li>
+<a onclick="toggleTheme();" class="btn btn-xs btn-default navbar-btn" style="padding: 10px 20px; font-size: 16px;">
+  <i id="theme-icon" class="fa fa-adjust fa-2x"></i>
+</a>
+
+              
               <li><a href="{{ site.baseurl | append: '/' }}">Home</a></li>
               {% if site.blog == true %}
                 <li><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
