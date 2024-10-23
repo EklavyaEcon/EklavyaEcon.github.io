@@ -27,7 +27,8 @@ url: "https://EklavyaEcon.github.io" # the base hostname & protocol for your sit
 
 github_username: "EklavyaEcon"
 twitter_username: "@eklavya_india"
-linkedin_id: "https://www.linkedin.com/company/eklavyaindiafoundation/"
+linkedin_id: "eklavyaindiafoundation"
+eklavya_id : " "
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
