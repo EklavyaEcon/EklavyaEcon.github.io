@@ -25,7 +25,7 @@ description: Inspirations real life eklavya's
  <img src="https://github.com/user-attachments/assets/8181016f-f05c-42d1-bbf7-a46189ce412a" alt="poem" width="300" height = "280"/>
 
 
- ## Einstein 
+ ## Albert Einstein 
 
 <img src="https://github.com/user-attachments/assets/68cc5d80-8f2c-4a67-8382-48e0e51b93ff" alt="poem" width="200" height = "170"/>
 
