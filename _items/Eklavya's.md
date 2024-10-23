@@ -4,7 +4,7 @@ title: Eklavya's
 description: Inspirations real life eklavya's
 ---
 
-## Dr B R Ambedkar 
+# Dr B R Ambedkar 
 
 
 
@@ -21,13 +21,16 @@ description: Inspirations real life eklavya's
  [Dr. B. R. Ambedkar Writings:PARI Archieve](https://ruralindiaonline.org/en/library/rooms/dr-br-ambedkar/)
  
 
+******
 
-  ## Siddhartha Gautama Buddha
+  # Siddhartha Gautama Buddha
 
  <img src="https://github.com/user-attachments/assets/8181016f-f05c-42d1-bbf7-a46189ce412a" alt="poem" width="300" height = "280"/>
 
 
- ## Albert Einstein 
+**********
+
+ # Albert Einstein 
 
 <img src="https://github.com/user-attachments/assets/68cc5d80-8f2c-4a67-8382-48e0e51b93ff" alt="poem" width="200" height = "170"/>
 
