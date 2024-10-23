@@ -23,12 +23,15 @@ description: Inspirations real life eklavya's
 
 ******
 
-  # Siddhartha Gautama Buddha
+
+  # The Buddha
 
  <img src="https://github.com/user-attachments/assets/8181016f-f05c-42d1-bbf7-a46189ce412a" alt="poem" width="300" height = "280"/>
 
 
 **********
+
+
 
  # Albert Einstein 
 
