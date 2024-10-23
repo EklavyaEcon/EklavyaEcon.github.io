@@ -30,6 +30,7 @@ Please Check Followings
 
 <a href="https://linktr.ee/EklavyaIndiaFoundation"> Ongoing Eklavya Preparatory Programmes </a> [click here]
 
+[![Eklavya - Linktree](https://img.shields.io/badge/Eklavya-Linktree-2ea44f?style=for-the-badge&logo=%2343E55E&logoColor=%234aa926)](https://linktr.ee/EklavyaIndiaFoundation)
 
 
 ![UNI-removebg-preview](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/d8f63bf3-d53e-48a2-b580-527db00fbd32)
