@@ -6,9 +6,11 @@ description: Eklavy
 
 <!-- The image  -->
 
-  ![Eklavya-removebg](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/f767244e-0b8d-451c-84a8-7aff3df81332)
+ 
 
-  
+![eklavya](https://github.com/user-attachments/assets/bb606027-20aa-401e-a0f7-3cfda6bc3258)
+
+
 
 
 > In the state of **Maharashtra**,<font color="indianred"> the core components of academia in the fields of economics and policy are frequently left unaddressed in formal education.</font> This absence of explicit teaching leaves aspiring academics in a predicament, as they are expected to acquire these crucial skills and knowledge "along the way." Unfortunately, many individuals face limitations due to a lack of accessible resources and limited opportunities for this type of learning.
