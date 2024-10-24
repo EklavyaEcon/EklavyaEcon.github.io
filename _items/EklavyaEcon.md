@@ -6,10 +6,9 @@ description: Eklavy
 
 <!-- The image  -->
 
-![3dgifmaker56437](https://github.com/user-attachments/assets/5c8b5394-1c50-41e3-9730-881c3eec3b95)
 
+![3dgifmaker97128](https://github.com/user-attachments/assets/14467f75-7956-4ca8-951f-0d20b5344eb1)
 
-![3dgifmaker45233](https://github.com/user-attachments/assets/ac28f0b0-9841-4b99-9e26-39bc16db52f1)
 
 
 
