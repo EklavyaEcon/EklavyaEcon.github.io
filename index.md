@@ -8,9 +8,15 @@ description: Homepage
 
 
 ------
-## A <font color="green">career launchpad</font> and a <font color="gold">platform </font>
 
-# "**Be someone's** <font color="green"> Nash equilibruim!" </font>
+
+<div class="alert alert-success" role="alert">
+  <strong>EklavyaEcon</strong> A career launchpad and a platform.
+</div>
+
+
+
+
 
 
 
