@@ -26,13 +26,7 @@ Team Eklavya
 
 **********
 
-<h2>
-  <span class="label label-primary"> To Contribute send material,
-
- Mail : [Mahesh Suryawanshi](mr.mahesh.econ@gmail.com) 
- 
- [create issue on GitHub Page](https://github.com/EklavyaEcon)  </span>
-</h2>
+[![To contribute - Mail](https://img.shields.io/static/v1?label=To+contribute&message=Mail&color=2ea44f&style=for-the-badge&logo=%23ECD53F)](mailto:mr.mahesh.econ@gmail.com)
 
 
 
