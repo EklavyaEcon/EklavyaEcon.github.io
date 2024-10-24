@@ -5,9 +5,10 @@
 
 <div align="center">
 
-[![EklavyaEcon](https://github.com/user-attachments/assets/10e34d9b-07b5-42d8-b7c7-e422371f647e)](EklavyaEcon.github.io)
+[![EklavyaEcon](https://github.com/user-attachments/assets/a2f77f09-9aeb-487a-9c75-789d94e1d055)](EklavyaEcon.github.io)
 
 </div>
+
 
 
 
