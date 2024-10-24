@@ -11,11 +11,20 @@ description: Homepage
 ## A <font color="green">career launchpad</font> and a <font color="gold">platform </font>
 
 # "**Be someone's** <font color="green"> Nash equilibruim!" </font>
-----
+
+<h1>Labels</h1>
+<div>
+  <h1>
+    <span class="label label-default">Default</span>
+    <span class="label label-primary">Primary</span>
+    <span class="label label-success">Success</span>
+    <span class="label label-info">Info</span>
+    <span class="label label-warning">Warning</span>
+    <span class="label label-danger">Danger</span>
+  </h1>
 
 
-
- the **<a href="https://eklavyaindia.org/">Eklavya India foundation</a>** intitiative **<a href="https://eklavyaecon.github.io/"> EklavyaEcon </a>** is a platform that aims to support and connect researchers and students,from marginalized caste, tribes, and religious communities who are interested in economics and policy. We want to increase the presence of these communities in research and policy discussions. Eklavya Econ welcomes first-generation learners and researchers to join us in our efforts to improve representation in policy and economic development circles and express our unique perspectives in academia.
+> the **<a href="https://eklavyaindia.org/">Eklavya India foundation</a>** intitiative **<a href="https://eklavyaecon.github.io/"> EklavyaEcon </a>** is a platform that aims to support and connect researchers and students,from marginalized caste, tribes, and religious communities who are interested in economics and policy. We want to increase the presence of these communities in research and policy discussions. Eklavya Econ welcomes first-generation learners and researchers to join us in our efforts to improve representation in policy and economic development circles and express our unique perspectives in academia.
 
 
  [![Eklavya - Econ](https://img.shields.io/static/v1?label=Eklavya&message=Econ&color=%23cc5500)](https://eklavyaecon.github.io/)
@@ -66,7 +75,10 @@ Please Check Followings
   </a>
 </div>
 
+ <button type="button" class="btn btn-lg btn-default">Default</button>
 
+
+  <span class="label label-default">Default</span>
 
 
 
