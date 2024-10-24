@@ -6,9 +6,8 @@ description: Eklavy
 
 <!-- The image  -->
 
- 
+ ![3dgifmaker92555](https://github.com/user-attachments/assets/c19e5428-8040-4f42-82c9-d5aae340e54f)
 
-![eklavya](https://github.com/user-attachments/assets/a2f77f09-9aeb-487a-9c75-789d94e1d055)
 
 
 
