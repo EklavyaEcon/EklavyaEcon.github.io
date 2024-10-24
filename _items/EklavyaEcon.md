@@ -8,7 +8,7 @@ description: Eklavy
 
  
 
-![eklavya](https://github.com/user-attachments/assets/bb606027-20aa-401e-a0f7-3cfda6bc3258)
+![eklavya](https://github.com/user-attachments/assets/a2f77f09-9aeb-487a-9c75-789d94e1d055)
 
 
 
