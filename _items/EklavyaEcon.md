@@ -9,7 +9,8 @@ description: Eklavy
 ![3dgifmaker56437](https://github.com/user-attachments/assets/5c8b5394-1c50-41e3-9730-881c3eec3b95)
 
 
-![3dgifmaker55863](https://github.com/user-attachments/assets/f159b88e-4d14-4eb4-b02e-2a7469e56842)
+![3dgifmaker45233](https://github.com/user-attachments/assets/ac28f0b0-9841-4b99-9e26-39bc16db52f1)
+
 
 
 
