@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Academic
+title:
 description: Academic
 ---
 
 <h2>
-  <span class="label label-danger"> Modern Day Economics </span>
+  <span class="label label-primary"> Modern Day Economics </span>
 </h2>
+
+
 
  
 > Once upon a time, an economist could stand up and say that economics is about the 
@@ -38,20 +40,24 @@ thinking about a Ph.D. thesis on why Norwegians sing in their showers!
 
 ----
 
-## WHY STUDY ECONOMICS?
+<h2>
+  <span class="label label-danger"> Why Study Economics </span>
+</h2>
+
 
 
 [ Amit Goyal Quora Page][click here](https://www.quora.com/Why-should-I-study-economics/answer/Amit-Goyal-135)
 
-
-## **Where to study Economics in India**
+<h2>
+  <span class="label label-danger"> Where to study Economics in India </span>
+</h2>
 
 [resources for students in econ in india] [ click here](https://www.shivhastawala.com/resources))
 
+<h2>
+  <span class="label label-danger">Public Policy In India</span>
+</h2>
 
-
-
-## **Public Policy In India**
 
 [Public Policy In India][click here](https://publicpolicyindia.com/)
 
