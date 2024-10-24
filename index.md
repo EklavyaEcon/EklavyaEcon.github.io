@@ -30,9 +30,11 @@ description: Homepage
 
 
 
+<div class="alert alert-danger" role="alert">
+  <strong>Student Registrations.</strong> 
+</div>
 
 
-## **STUDENT REGISTRATION**
 
 Please Check Followings
 
@@ -56,8 +58,10 @@ Please Check Followings
 
 -----------
 
-## **Beacons** *follow channels for mentorship*
 
+<div class="alert alert-info" role="alert">
+  <strong>Beacons</strong> follow channels for mentorship.
+</div>
 
 
 
