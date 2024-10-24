@@ -13,14 +13,10 @@ description: Homepage
 # "**Be someone's** <font color="green"> Nash equilibruim!" </font>
 
 
-<div>
-  <h1>
-    <span class="label label-default">Default</span>
-  
-  </h1>
+
 
   <p>
- <button type="button" class="btn btn-lg btn-success">Success</button>
+ <button type="button" class="btn btn-lg btn-eklavya">eklavya</button>
   </p>
 
 
