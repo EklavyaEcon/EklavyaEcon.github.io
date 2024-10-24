@@ -4,7 +4,10 @@ title: Academic
 description: Academic
 ---
 
-## Modern Day Economics
+<h2>
+  <span class="label label-danger"> Modern Day Economics </span>
+</h2>
+
  
 > Once upon a time, an economist could stand up and say that economics is about the 
 allocation of resources. I am afraid that that is history. Economists by now have done 
