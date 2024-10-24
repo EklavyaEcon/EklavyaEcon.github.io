@@ -78,10 +78,7 @@ Please Check Followings
   </a>
 </div>
 
- <button type="button" class="btn btn-lg btn-default">Default</button>
 
-
-  <span class="label label-default">Default</span>
 
 
 
