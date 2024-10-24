@@ -4,7 +4,7 @@ title: EklavyaEcon
 description: Homepage
 ---
 
-![3dgifmaker14256](https://github.com/user-attachments/assets/110d7775-698a-4a89-8470-353ce1411b8f)
+![eklavya background picture](https://github.com/EklavyaEcon/EklavyaEcon.github.io/assets/126576030/49652fe4-2a4d-4d62-9e43-ccf4d6dd52a6)
 
 
 ------
