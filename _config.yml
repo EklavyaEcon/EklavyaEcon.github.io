@@ -18,7 +18,7 @@ author: "Eklavya india foundation"
 email: "team@eklavyaindia.org"
 description: personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://econstar.github.io/EklavyaEcon/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "EklavyaEcon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # ------------------------------------------------------------------------------
 # Custom settings
