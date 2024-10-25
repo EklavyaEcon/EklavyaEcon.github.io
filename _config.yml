@@ -55,8 +55,8 @@ toolbar_priority:        # Order of the items in the toolbar (except for blog an
   
 # Collections
 collections:
-  dropdown:
-    output: off
+  # dropdown:
+    # output: off
   items:
     output: true
 # ------------------------------------------------------------------------------
