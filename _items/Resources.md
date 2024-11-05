@@ -4,7 +4,10 @@ title: Resources
 description: Resourc
 ---
 
-## **Advice for students in Economics**
+## 
+ <h3>
+  <span class="label label-primary"> Advice for students in Economics</span>
+</h3>
 
 #### This sites provides resources for grad students in economics
 * <a href="https://sites.google.com/view/econgradadvice/">EconGradAdvice</a> (by chris roth and david schildner)
@@ -15,7 +18,11 @@ description: Resourc
 * <a href=" https://www.ctanujit.org/lecture-notes.html"> mathematics statistics and economics resources </a> (by tanujit da)
 
   ---
-# Zotero-Guide
+  <h3>
+  <span class="label label-primary">  Zotero-Guide </span>
+</h3>
+
+
 
 Zotero, the freeware reference manager, has reached a major milestone with the release of "zotero7" after an extensive period of 365+ days and over 100+ beta versions. This latest version allows seamless integration with various platforms including Browsers, remote databases like zoofr, Markdown database Zettlr,Microsoft and Google products, overleaf, and Notero. Dr. Chinmaya S Rathore, former professor at IIFM, has shared a tutorial on Zotero 7. 
 
