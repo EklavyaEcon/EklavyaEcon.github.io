@@ -88,6 +88,8 @@ $.fn.isInViewport = function() {
   return elementBottom > viewportTop && elementTop < viewportBottom;
 };
 
+<script data-goatcounter="https://1757051.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 
 
 
